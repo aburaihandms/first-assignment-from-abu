@@ -1,0 +1,46 @@
+/* font-family: 'Merriweather', serif;
+font-family: 'Inter', sans-serif; */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    width: 1150px;
+    height: auto;
+}
+/* 1st section start */
+.happy-new-year-header-section {
+    background-image: url('./resources/Banner\ Image.png');
+    width: 1150px;
+    height: 500px;
+    margin: 50px auto;
+    border-radius: 8px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+
+.bg-color {
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.384) 100%);
+    width: 1150px;
+    height: 500px;
+}
+
+.header-sub-titel {
+    padding: 150px 0px 20px 0px;
+    font-family: 'Merriweather';
+    font-size: 30px;
+    font-weight: 400;
+}
+.header-title{
+    font-family: 'Merriweather';
+    font-size: 60px;
+    font-weight: 900;
+    width: 630px;
+    text-align: center;
+    padding: 0px 250px;
+}
+/* 2nd section start */
